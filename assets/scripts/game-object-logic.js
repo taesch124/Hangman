@@ -17,7 +17,7 @@ const gameEndText = document.getElementById('game-end-text');
 */
 
 const possibleLetters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
-const possibleGames = ["The Legend of Zelda", "Halo", "Prince of Persia", "Super Mario", "Fallout", "Bioshock", "God of War", "Shadow of the Colossus", "Final Fantasy"];
+const possibleGames = ["The Legend of Zelda", "Halo", "Prince of Persia", "Super Mario", "Fallout", "Bioshock", "God of War", "Shadow of the Colossus", "Final Fantasy", "Grand Theft Auto", "Metroid", "Mortal Kombat", "Mass Effect", "Diablo", "Resident Evil", "Tomb Raider", "Assassins Creed", "Far Cry", "Warcraft"];
 
 let gameState = {
     wins: 0,
